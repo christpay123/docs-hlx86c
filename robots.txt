@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-57xlmu.jambul126.xyz/sitemap.xml
